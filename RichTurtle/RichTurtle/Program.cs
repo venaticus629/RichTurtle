@@ -12,6 +12,7 @@ namespace RichTurtle
         {
             Console.WriteLine("This Is Rich Turtle!!!");
             Console.WriteLine("This Message Wrote on GitHub.Com");
+            Console.WriteLine("This Message wrote on Visual");
         }
     }
 }
